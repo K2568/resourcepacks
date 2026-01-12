@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What pack are you using:**
+**What pack are you using**
 Texture pack name
 
 **What version of that pack are you using**
